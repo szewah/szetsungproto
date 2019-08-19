@@ -5,3 +5,12 @@ body {
 #brandName {
     font-size: 15px;
 }
+
+.navbar {
+    border-bottom: 1px solid orangered;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
