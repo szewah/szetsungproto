@@ -14,3 +14,21 @@ img {
     height: 100%;
     width: 100%;
 }
+
+.navbar-toggler {
+    border: none;
+}
+
+#currentH3 {
+    padding: 40px 0 40px 0;
+    text-align: center;
+}
+
+.card-body {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
